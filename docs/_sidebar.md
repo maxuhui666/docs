@@ -1,2 +1,1 @@
-+ [Java](java/java)
-+ [JavaScript](js/js)
++ [服务注册中心](cloud/eureka)
